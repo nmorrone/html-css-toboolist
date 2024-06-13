@@ -1,0 +1,26 @@
+body {
+    margin: auto;
+    background-color: #d2d2d2;
+}
+
+.top-header {
+    background-color: #fff;
+    padding: 30px 60px;
+    margin: auto;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+a {
+    color: #2271b3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
