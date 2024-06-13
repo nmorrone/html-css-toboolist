@@ -35,4 +35,24 @@ a:hover {
     width: 50%;
     background-color: #fff;
     margin: 50px auto;
+    padding: 50px;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.list.title {
+    font: Verdana;
+    font-weight: 800;
+    font-size: 20px;
+
+}
+
+.list.items {
+    font: Verdana;
+    font-size: 18px;
+    font-weight: 400;
+    color: #3c3c3c;
+    line-height: 2;
 }
