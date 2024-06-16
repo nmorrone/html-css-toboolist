@@ -56,3 +56,33 @@ a:hover {
     color: #3c3c3c;
     line-height: 2;
 }
+
+.icon {
+    border: solid 1px;
+    border-radius: 100%;
+    padding: 3px;
+    margin-right: 5px;
+
+}
+
+.icon.check {
+    color: green;
+}
+
+.icon.exmark {
+    color: red;
+}
+
+list {
+    vertical-align: middle;
+}
+
+.fake-button {
+    font: Roboto;
+    font-size: 10px;
+    font-weight: 400;
+    color: #fff;
+    padding: 8px;
+    border-radius: 50px 50px 50px 50px;
+    margin-left: 5px;
+}
