@@ -11,8 +11,15 @@ body {
 
 .top-header {
     background-color: #fff;
-    padding: 30px 60px;
+    padding: 30px;
+    vertical-align: middle;
+    width: 100%;
 
+}
+
+.header-headline {
+    font-family: Roboto;
+    font-size: 14px;
 }
 
 footer {
@@ -73,7 +80,7 @@ a:hover {
     color: red;
 }
 
-list {
+.list {
     vertical-align: middle;
 }
 
